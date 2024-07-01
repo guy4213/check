@@ -4,7 +4,5 @@ f commit
 3rd 
 4th commit
 555
-<<<<<<< HEAD
->>>>>>> f9d697f (enter change)
-=======
->>>>>>> 2750fd4 (Commit message)
+
+some change! !
